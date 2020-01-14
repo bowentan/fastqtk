@@ -1,0 +1,7 @@
+quality_system.lo: ../../../../lib/fastq/src/quality_system.c \
+ /usr/include/stdc-predef.h \
+ /home/tanbowen/fastqtk/debug/lib/fastq/../../../lib/fastq/include/fastq/quality_system.h
+
+/usr/include/stdc-predef.h:
+
+/home/tanbowen/fastqtk/debug/lib/fastq/../../../lib/fastq/include/fastq/quality_system.h:

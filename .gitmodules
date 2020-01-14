@@ -1,0 +1,6 @@
+[submodule "lib/program_options"]
+	path = lib/program_options
+	url = git@gitlab.deepomics.org:bowentan/libprogram_options.git
+[submodule "lib/fastq"]
+	path = lib/fastq
+	url = git@gitlab.deepomics.org:bowentan/libfastq.git
